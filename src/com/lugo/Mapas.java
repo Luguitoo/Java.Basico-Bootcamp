@@ -21,7 +21,7 @@ public class Mapas {
         }
         //par de clave valor
         for (Map.Entry<String, String> pair : personas.entrySet()){
-            System.out.println(pair.getKey() + " / " + pair.getValue());
+            System.out.println(pair.getKey() + "/ " + pair.getValue());
         }
     }
 }
