@@ -3,7 +3,7 @@ package com.lugo;
 public class StringMetods {
     public static void main(String[] args) {
         String nombre = "Carlos";
-        String apellido = "Lugo";
+        String apellido = "nifty";
         System.out.println(nombre.length()); //cantidad de caracteres
         System.out.println(nombre.toUpperCase()); //En mayusculas
         System.out.println(nombre.trim()); //elimina los espacios
@@ -13,4 +13,5 @@ public class StringMetods {
         }
 
     }
+
 }

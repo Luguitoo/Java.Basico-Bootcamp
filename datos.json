@@ -1,0 +1,12 @@
+{
+  "credenciales": {
+    "usuario": "Carlos Lugo",
+    "clave": "TestClave",
+
+    "videos": [
+      "Video 1",
+      "Video 2",
+      "Video 3"
+    ]
+  }
+}
