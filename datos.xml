@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<credenciales>
+    <usuario>Carlos Lugo</usuario>
+    <clave>ClaveTest</clave>
+    <videos proveedor ="youtube">
+        <video>Tops 123 fantasmas</video>
+        <video>Tops 10 balones</video>
+    </videos>
+</credenciales>
